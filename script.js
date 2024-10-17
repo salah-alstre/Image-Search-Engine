@@ -9,7 +9,7 @@ let page = 1;
 
 async function searchImages() {
     keyword = searchBox.value; 
-    const url = `https://api.unsplash.com/search/photos?page=${page}&query=${keyword}&client_id=${acceskey}&per_page=12`; // تأكد من تعريف url بشكل صحيح
+    const url = `https://api.unsplash.com/search/photos?page=${page}&query=${keyword}&client_id=${acceskey}&per_page=12`;
 
     try {
         const response = await fetch(url); 

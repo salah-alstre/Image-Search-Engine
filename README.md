@@ -50,9 +50,6 @@ To do this, follow these steps:
 We appreciate your contributions!
 
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 If you have any questions or feedback, feel free to reach out:
 
@@ -60,6 +57,5 @@ If you have any questions or feedback, feel free to reach out:
 - VC:    [ Salah Cv ](https://salahcv.site/)
 
 
-  ## Acknowledgments
-- BMW for their amazing designs
-- [Boxicons](https://boxicons.com/) for the icon library
+## License
+This project is licensed under the MIT License.

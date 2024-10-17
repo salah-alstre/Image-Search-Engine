@@ -22,7 +22,7 @@ images based on input keywords and displays the results interactively.
 
 ## Screenshots
 
-![Image](https://github.com/salah-alstre/BMW-Elegance/blob/main/assets/Bmw-M.jpg)
+![Image](https://github.com/salah-alstre/Image-Search-Engine/blob/main/assets/ImageSearch.jpg)
 
 
 

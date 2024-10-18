@@ -29,8 +29,11 @@ images based on input keywords and displays the results interactively.
 ## How to Use
 
 1.Clone or download the project.
+
 2.Open index.html in your web browser.
-3.Enter a keyword in the search box and click the search button.
+
+3.Enter a keyword in the search box and click the search button
+
 4.Images related to the entered keyword will be displayed.
 
 
